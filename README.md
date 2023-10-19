@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eli
-- 🌱 Software Engineer at Collective Health on the Data Platform Team
+- 🌱 Currently a Software Engineer at Collective Health on the Data Platform Team
 - 📫 [Email](elijaghab@gmail.com) / [LinkedIn](www.linkedin.com/in/elijaghab/) 
 - 🌐 [My Website](https://elijaghab.github.io/) 
 <!---
