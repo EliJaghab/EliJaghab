@@ -28,7 +28,7 @@ I like solving real problems end-to-end—from backend APIs and ETL pipelines to
 
 ### 🛠️ Tech Stack
 
-***Languages & Frameworks**
+**Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
@@ -39,7 +39,7 @@ I like solving real problems end-to-end—from backend APIs and ETL pipelines to
 ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
 
-***Backend & Data**
+**Backend & Data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
@@ -49,7 +49,7 @@ I like solving real problems end-to-end—from backend APIs and ETL pipelines to
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=plastic&logo=apachespark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=apacheairflow&logoColor=white)
 
-***Cloud & Infrastructure**
+**Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=plastic&logo=railway&logoColor=white)
@@ -58,19 +58,19 @@ I like solving real problems end-to-end—from backend APIs and ETL pipelines to
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=plastic&logo=datadog&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=githubactions&logoColor=white)
 
-***AI & LLM Tooling**
+**AI & LLM Tooling**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white)
 ![Anthropic Claude](https://img.shields.io/badge/Claude-181818?style=plastic&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=plastic&logo=githubcopilot&logoColor=white)
 
-***Testing & DevOps**
+**Testing & DevOps**
 
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=plastic&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 
-***Tools & Platforms**
+**Tools & Platforms**
 
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=plastic&logo=looker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
