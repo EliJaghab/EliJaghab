@@ -10,7 +10,7 @@ I like solving real problems end-to-end—from backend APIs and ETL pipelines to
 
 **[Tunemeld](https://tunemeld.com)** – Music discovery platform aggregating trending tracks across Spotify, Apple Music, and SoundCloud
 - **Stack:** Django + PostgreSQL backend, GraphQL API, vanilla JavaScript frontend
-- **Infrastructure:** Python ETL pipelines with GitHub Actions, deployed on Railway
+- **Infrastructure:** Python ETL pipelines with GitHub Actions, deployed on serverless Vercel
 - **Features:** ISRC-based track matching, automated weekly playlist refresh, multi-platform view count ranking
 
 #### 💼 Recent Highlights
