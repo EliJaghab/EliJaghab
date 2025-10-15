@@ -13,26 +13,16 @@ I like solving real problems end-to-end—from backend APIs and ETL pipelines to
 - **Infrastructure:** Python ETL pipelines with GitHub Actions, deployed on serverless Vercel
 - **Features:** ISRC-based track matching, automated weekly playlist refresh, multi-platform view count ranking
 
-#### 💼 Recent Highlights
-
-- **Cut $100K/year** migrating 7M message attachments from GetStream.io to internal infrastructure (Python, Django)
-- **Launched Faves** – Nextdoor's AI-powered search with ChatGPT citation engine (GraphQL, Python hydration layer) | [Try it here](https://nextdoor.com/faves)
-- **Generated $35K ARR** building full-stack email campaign framework (Python, TypeScript, React)
-- **Increased business claims 6×** with real-time email system using Amazon SQS
-- **Enabled Claude Sonnet 4** across engineering org via AWS Bedrock + Terraform, authored internal AI tooling docs
-- **90% faster analytics** – Reengineered claims pipeline from 11hrs → 20min using Spark (saved $25K/year)
-
 #### 🏆 Awards & Recognition
 
 - **Nextdoor Hackathon Winner** – Connected OpenSearch cluster (from Faves) to regular search, improving search relevance and discovery
 
-#### 🛠️ Tech Stack
+#### Tech Stack
 
 **Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -64,12 +54,6 @@ I like solving real problems end-to-end—from backend APIs and ETL pipelines to
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic Claude](https://img.shields.io/badge/Claude-181818?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-
-**Testing & DevOps**
-
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 **Tools & Platforms**
 
