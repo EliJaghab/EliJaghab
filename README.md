@@ -6,14 +6,14 @@ Most recently at **[Nextdoor](https://nextdoor.com)** shipping AI-powered featur
 
 I like solving real problems end-to-end—from backend APIs and ETL pipelines to frontend experiences—with a focus on simplicity, scalability, and impact.
 
-#### 🚀 What I'm Building
+#### What I'm Building
 
 **[Tunemeld](https://tunemeld.com)** – Music discovery platform aggregating trending tracks across Spotify, Apple Music, and SoundCloud
 - **Stack:** Django + PostgreSQL backend, GraphQL API, vanilla JavaScript frontend
 - **Infrastructure:** Python ETL pipelines with GitHub Actions, deployed on serverless Vercel
 - **Features:** ISRC-based track matching, automated weekly playlist refresh, multi-platform view count ranking
 
-#### 🏆 Awards & Recognition
+#### Awards & Recognition
 
 - **Nextdoor Hackathon Winner** – Connected OpenSearch cluster (from Faves) to regular search, improving search relevance and discovery
 
