@@ -1,6 +1,6 @@
 ### Hi, I'm Eli
 
-**Backend-leaning Full-Stack Engineer** building scalable systems, AI-powered products, and data pipelines.
+Building scalable systems, AI-powered products, and data pipelines.
 
 Currently at **[Distyl AI](https://distyl.ai)** building and scaling AI agents for F500 companies. Previously at **[Nextdoor](https://nextdoor.com)** shipping AI-powered features and cost-saving infrastructure, and **[Collective Health](https://collectivehealth.com)** building data platform.
 
